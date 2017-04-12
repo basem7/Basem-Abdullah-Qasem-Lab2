@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<car_menu>
+    <car>
+        <name>Green Lamborghini </name>
+        <price>RM 650,000</price>
+        <description>A classic nice car with cool color </description>
+        
+        <image>pic/Lamborghini1.png</image>
+    </car>
+    <car>
+        <name> Black Lamborghini </name>
+        <price>RM 700,000</price>
+        <description> Mr.Siang's car .. he used it for only 3 days , and he got bored already </description>
+       
+        <image>pic/Lamborghini2.png</image>
+    </car>
+    <car>
+        <name>BMW-X5s</name>
+        <price>RM120,000</price>
+        <description>One of the poewr cars ever </description>
+        
+        <image>pic/BMW-X5-PNG-Pic.png</image>
+    </car>
+   <car>
+        <name>Malaysian Car</name>
+        <price> RM 5000</price>
+        <description>This car belongs to Muhammed Ismail , El , and he does not want it any more </description>
+        
+        <image>pic/Picture1.png</image>
+    </car>
+    <car>
+        <name>Honda Scooter</name>
+        <price> RM 6000 </price>
+        <description>This epic scooter belongs to Fiey , and if you notice that it's more expensive than El's Car :D </description>
+        
+        <image>pic/bike_02.png</image>
+    </car>
+    <car>
+        <name>Rolls Royce Car </name>
+        <price> RM 200.000</price>
+        <description>Classy car for classy people :D </description>
+        
+        <image>pic/Rolls Royce.png</image>
+    </car>
+</car_menu>
